@@ -1,7 +1,7 @@
 {
   "apps": {
     "name": "PM2-test",
-    "script": "bin/www.js",
+    "script": "bin/www",
     "watch": true,
     "ignore_watch": ["node_modules", "logs"],
     "instances": 1,
